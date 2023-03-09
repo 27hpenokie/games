@@ -2,16 +2,19 @@
 "users":[
     {
         "name": "hunter",
+        "key": "4752f64b-7580-41dd-999a-692a39102b4e",
         "password_hash": "7afccd9a367c62ad6a304b76347aacb616fc3db4792abfb42feb7d8828914f9a",
         "allow_login": true
     },
     {
         "name": "ryan",
+        "key": "3c4329ca-8d0c-46ea-a555-5e56504b3f7f",
         "password_hash": "",
         "allow_login": false
     },
     {
         "name": "thomas",
+        "key": "add8453e-0f0a-4283-a727-a2e73138c9ea",
         "password_hash": "",
         "allow_login": false
     }
