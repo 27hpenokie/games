@@ -4,7 +4,6 @@ body, html {
 
 .login-box {
     box-shadow: 0px 0px 4px lightblue;
-    transform-origin: center;
     position: absolute;
     top: 50%;
     left: 50%;
