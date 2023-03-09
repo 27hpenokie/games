@@ -1,1 +1,2 @@
 This is an unblo cked games site. Please note that the space is to prevent keyword blocking.
+[![Deploy static content to Pages](https://github.com/canicode3896/games/actions/workflows/static.yml/badge.svg)](https://github.com/canicode3896/games/actions/workflows/static.yml)
