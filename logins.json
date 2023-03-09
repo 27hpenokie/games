@@ -1,0 +1,19 @@
+{
+"users":[
+    {
+        "name": "hunter",
+        "password_hash": "7afccd9a367c62ad6a304b76347aacb616fc3db4792abfb42feb7d8828914f9a",
+        "allow_login": true
+    },
+    {
+        "name": "ryan",
+        "password_hash": "",
+        "allow_login": false
+    }
+    {
+        "name": "thomas",
+        "password_hash": "",
+        "allow_login": false
+    }
+]
+}
